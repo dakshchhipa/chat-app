@@ -76,6 +76,6 @@ Start the Client
 ![](https://github.com/dakshchhipa/chat-app/blob/main/screenshots/profile.PNG)
 ## Made By
 
-- [@Piyush-eon](https://github.com/dakshchhipa)
+- [daksh_4103](https://github.com/dakshchhipa)
 
   
